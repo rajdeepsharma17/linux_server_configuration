@@ -22,7 +22,7 @@ Obtain `id_rsa` from "Notes to Reviewer" field.
 ![Create Instance](/images/create_instance.png)
 
 3. You'll be given two options: App+OS, OS only.
-![Create Instance Image](/images/create_instance_image.png)
+![Create Instance Image](/images/create_instance_image.JPG)
 
 4. Choose OS only and ubuntu
 
